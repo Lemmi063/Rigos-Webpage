@@ -1,0 +1,114 @@
+li {
+    display: inline;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #4a892e;
+}
+
+ul {
+    background-color: #dddddd;
+}
+
+.active {
+    background-color: #9bcb86;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+title {
+    font-family: Redressed;
+}
+
+li {
+    border-right: 1px solid #27300f;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+html {
+    background-color: #becfac;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+.column {
+    float: left;
+}
+
+.wink {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    width: 500px;
+}
+
+.sw {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    width: 500px;
+}
+
+.birthday {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    width: 500px;
+}
+
+.sleep {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    width: 500px;
+}
+
+.farewell {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    width: 500px;
+}
+
+.halloween{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    width: 500px;
+}
